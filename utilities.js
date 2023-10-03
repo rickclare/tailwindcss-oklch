@@ -75,7 +75,6 @@ export default [
     key: 'ring',
     themeKey: 'ringColor',
     property: ['--tw-ring-color'],
-    selector: '&::placeholder',
   },
   {
     key: 'ring-offset',
